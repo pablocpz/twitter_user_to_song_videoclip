@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ready Twitter to Karaoke
 
 ## Overview
@@ -43,3 +44,18 @@ This repository contains a Twitter bot that analyzes Twitter user profiles and g
 - `src/backend/twitter_data_retrieval.py`: Fetches user data from Twitter.
 - `src/backend/music_gen.py`: Interfaces with the Suno AI model for audio generation.
 - `src/backend/config.py`: Contains API keys and configuration settings.
+=======
+# ready-twitter-to-karaoke
+
+
+Run the botapp.py main file.
+Ensure you already created a `credentials.ini` file in the root dir, looking as follows:
+```bash
+Authentication]
+access_token = XXXXXXXXX
+app_key = XXXXXXXXXX
+app_secret = XXXXXXXXXXXX
+refresh_token = XXXXXXXXXX
+```
+These should be the **dropbox api keys**
+>>>>>>> 64fabfdf463302d4183d89a31b733898304f01d0
