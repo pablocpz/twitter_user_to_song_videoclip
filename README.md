@@ -1,7 +1,10 @@
 # Twitter to Song Karaoke Agentic system 
 
 ## Overview
-This repository contains a Twitter bot that analyzes Twitter user profiles and generates humorous song lyrics based on their tweets and profile information. The bot utilizes various APIs to retrieve user data, process it, and generate audio content.
+I built a twitter bot which can generate a karaoke song for any given user who replies a specific tweet
+
+The app retrieves the data, bio, picture image, banner and historical tweets from the users, and the agents combine everything, and creates the lyrics of the song.
+Finally, we run an API to emulate the suno ai tool in order to get a video song.
 
 ## Features
 - Retrieve Twitter user data including bio, profile picture, and tweets.
