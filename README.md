@@ -1,4 +1,4 @@
-#Twitter to Song Karaoke Bot 
+# Twitter to Song Karaoke Agentic system 
 
 ## Overview
 This repository contains a Twitter bot that analyzes Twitter user profiles and generates humorous song lyrics based on their tweets and profile information. The bot utilizes various APIs to retrieve user data, process it, and generate audio content.
