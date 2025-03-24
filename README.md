@@ -1,8 +1,7 @@
 # Twitter to Song Karaoke Agentic system 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f658e786-7f00-49d6-b7b4-4fe151a1b261" width="300">
-  <br>
+  <img src="https://github.com/user-attachments/assets/f658e786-7f00-49d6-b7b4-4fe151a1b261" width="300" style="margin-right: 20px;">
   <img src="https://github.com/user-attachments/assets/41de218b-0b69-4225-addd-7247bcec2e4e" width="300">
 </div>
 
