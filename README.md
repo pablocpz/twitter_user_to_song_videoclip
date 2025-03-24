@@ -1,5 +1,7 @@
 # Twitter to Song Karaoke Agentic system 
 
+![image](https://github.com/user-attachments/assets/f658e786-7f00-49d6-b7b4-4fe151a1b261)
+
 ## Overview
 I built a twitter bot which can generate a karaoke song for any given user who replies a specific tweet
 
